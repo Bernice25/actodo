@@ -1,7 +1,4 @@
 import './App.css';
-import Card from './component/Card';
-import Header from './component/Header';
-import TodoContainer from './component/Todocontainer';
 import Login from './component/pages/login';
 import Signup from './component/pages/SignUp';
 import LandingPage from './component/pages/LandingPage';
